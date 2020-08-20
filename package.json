@@ -21,7 +21,7 @@
     "zombie": "^6.1.4",
     "helmet": "^3.21.2",
     "mongoose": "^5.8.9",
-    "bcrypt": "^3.0.7"
+    "bcrypt": "^5.0.0"
   },
   "engines": {
     "node": "12.14.1"
